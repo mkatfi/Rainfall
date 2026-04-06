@@ -1,3 +1,7 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
 void n() {
     // THIS is what we want to reach
     system("/bin/cat /home/user/level7/.pass");

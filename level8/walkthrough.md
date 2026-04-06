@@ -1,10 +1,10 @@
 # 🎯 Rainfall — Level 8 Complete Guide
 
-> **For beginners — explained like you are 12 years old, step by step.**
+> **For beginners**
 
 ---
 
-## 🧒 Simple explanation (like you are 12)
+## 🧒 Simple explanation
 
 Imagine a program that acts like a **security guard with a notebook**.
 You can give it 4 commands:
