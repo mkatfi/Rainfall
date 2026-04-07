@@ -1,9 +1,3 @@
-# 🎯 Rainfall — Level 2 Complete Guide
-
-> **For beginners**
-
----
-
 ## 🧒 What is this level about? (Simple explanation)
 
 Imagine the program has a **box** that holds your name when you type it.
