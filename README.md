@@ -1,7 +1,7 @@
 # Rainfall
 
 > **Rainfall** — Introductory binary exploitation & reverse engineering wargame.
-> Predecessor to [Override](./), focused on building solid fundamentals in memory corruption and Linux binary internals.
+> Predecessor to [Rainfall](./), focused on building solid fundamentals in memory corruption and Linux binary internals.
 
 <p align="center">
   <img alt="difficulty" src="https://img.shields.io/badge/difficulty-medium-orange">
